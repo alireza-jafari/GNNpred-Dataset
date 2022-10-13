@@ -1,0 +1,31 @@
+ticker,exchange,industry,index_weighting
+MMM,NYSE,Conglomerate,3.62
+AXP,NYSE,Financial services,3.0
+AMGN,NASDAQ,Biopharmaceutical,4.18
+AAPL,NASDAQ,Information technology,2.78
+BA,NYSE,Aerospace and defense,4.12
+CAT,NYSE,Construction and Mining,3.96
+CVX,NYSE,Petroleum industry,1.82
+CSCO,NASDAQ,Information technology,1.1
+KO,NYSE,Soft Drink,1.04
+DOW,NYSE,Chemical industry,1.18
+GS,NYSE,Financial services,7.6
+HD,NYSE,Home Improvement,6.05
+HON,NASDAQ,Conglomerate,4.29
+IBM,NYSE,Information technology,2.6
+INTC,NASDAQ,Semiconductor industry,1.0
+JNJ,NYSE,Pharmaceutical industry,3.26
+JPM,NYSE,Financial services,2.93
+MCD,NYSE,Food industry,4.44
+MRK,NYSE,Pharmaceutical industry,1.45
+MSFT,NASDAQ,Information technology,5.63
+NKE,NYSE,Apparel,3.16
+PG,NYSE,Fast-moving consumer goods,2.66
+CRM,NYSE,Information technology,4.83
+TRV,NYSE,Insurance,2.99
+UNH,NYSE,Managed health care,7.88
+VZ,NYSE,Telecommunication,1.02
+V,NYSE,Financial services,4.36
+WBA,NASDAQ,Retailing,0.9
+WMT,NYSE,Retailing,2.77
+DIS,NYSE,Broadcasting and entertainment,3.32
